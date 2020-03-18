@@ -1,9 +1,14 @@
 # 目录
 ## 《环》
 
-* [第一章 一个错误](https://github.com/Tadasuki/Circle-Universe/blob/圆圈宇宙-正文/第一章%20一个错误.md
-)
+### 在线阅读 (Markdown格式)
+* [第一章 一个错误](https://github.com/Tadasuki/Circle-Universe/blob/圆圈宇宙-正文/第一章%20一个错误.md)
 * 第二章 成功与失败(规划中...)
+
+### 下载 (ePub格式及html、css等格式)
+* [ePub格式成品](https://raw.githubusercontent.com/Tadasuki/Circle-Universe/%E5%9C%86%E5%9C%88%E5%AE%87%E5%AE%99-%E6%AD%A3%E6%96%87/Huan%20-%20Tadasuki.epub)
+* [html源码库](https://github.com/Tadasuki/Circle-Universe/tree/code)
+
 
 # 著作权及许可
 
